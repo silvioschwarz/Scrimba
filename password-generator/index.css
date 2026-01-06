@@ -35,7 +35,6 @@ main {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    
 }
 
 input {
@@ -81,7 +80,7 @@ hr {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: center; 
+    text-align: center;
     width: 200px;
     padding: 12px;
     word-break: break-all;

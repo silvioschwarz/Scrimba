@@ -1,0 +1,8 @@
+how to responsive design
+
+1.
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+2.relative größen angaben: %, em, rem
+
+3.flexbox, flexgrid
